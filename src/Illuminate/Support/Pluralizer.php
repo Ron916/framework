@@ -106,6 +106,7 @@ class Pluralizer {
 		'chassis',
 		'traffic',
 		'coreopsis',
+		'personnel',
 	);
 
 	/**
