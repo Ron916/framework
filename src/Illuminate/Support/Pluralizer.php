@@ -117,6 +117,7 @@ class Pluralizer {
 		'money',
 		'moose',
 		'offspring',
+		'personnel',
 		'plankton',
 		'police',
 		'rice',
